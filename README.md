@@ -1,6 +1,4 @@
-# 5K Groceries Dataset for Object Detection
-
-![Example](figures/figure1.png)
+# 5K Groceries Dataset for Object Detection (with scripts to convert from Pascal VOC to YOLO format)
 
 
 The dataset is an extended version of the [Freiburg Groceries Dataset](http://aisdatasets.informatik.uni-freiburg.de/freiburg_groceries_dataset/). The original dataset can be found [here](https://github.com/PhilJd/freiburg_groceries_dataset). It consists of 4947 images across 25 classes. All of the images are scaled down to 224x224x3. This repository extends the original dataset by providing labeled bounding boxes for each of the available images.
